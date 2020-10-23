@@ -31,8 +31,11 @@ linter:
 # The following section is specific to Flutter.
 flutter:
   plugin:
-    androidPackage: com.flutter.sms
-    pluginClass: SmsPlugin
+    android:
+        package: com.flutter.sms
+        pluginClass: SmsPlugin
+      ios:
+        pluginClass: SmsPlugin
 
   # To add assets to your package, add an assets section, like this:
   # assets:
