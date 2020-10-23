@@ -13,3 +13,7 @@
 ## [0.0.4] - 26-10-20
 
 * Fixed Package issue
+
+## [0.0.5] - 26-10-20
+
+* Fixed Ios issue
