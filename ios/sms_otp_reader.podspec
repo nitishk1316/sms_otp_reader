@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'sms_otp_reader'
-  s.version          = '0.0.5'
+  s.version          = '0.0.6'
   s.summary          = 'SMS library'
   s.description      = <<-DESC
 SMS library
