@@ -34,8 +34,8 @@ flutter:
     android:
         package: com.flutter.sms
         pluginClass: SmsPlugin
-      ios:
-        pluginClass: SmsPlugin
+    ios:
+      pluginClass: SmsPlugin
 
   # To add assets to your package, add an assets section, like this:
   # assets:
