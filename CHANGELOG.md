@@ -25,3 +25,7 @@
 ## [0.0.7] - 27-10-20
 
 * Removed Permission for PHONE
+
+## [0.0.8] - 27-10-20
+
+* Removed Permission for Andriod
