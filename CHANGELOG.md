@@ -21,3 +21,7 @@
 ## [0.0.6] - 26-10-20
 
 * Fixed Ios issue
+
+## [0.0.7] - 27-10-20
+
+* Removed Permission for PHONE
